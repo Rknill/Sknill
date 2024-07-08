@@ -1,22 +1,22 @@
 {
-  "author": "Nayan",
+  "author": "𝐒𝐊-𝐍𝐈𝐋𝐋",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "𝐒𝐊_𝐍𝐈𝐋𝐋-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100065050393649",
-    "100056382366330"
-  ],
-  "ADMINBOT": [
-    "100065050393649",
+    "100076780954628",
     "100076780954628"
   ],
-  "OWNER": ["100000959749712"], 
+  "ADMINBOT": [
+    "100076780954628",
+    "100076780954628"
+  ],
+  "OWNER": ["100076780954628"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
